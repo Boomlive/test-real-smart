@@ -7,6 +7,7 @@ Ensure you have the following installed
 
 Installation
   - npm install or yarn install
+      - test-real-smart(front-end) and server(backend)
   - Set up environment variables
       - Create a .env file in the test-real-smart
         - API_BASE=""   //  "http://localhost:5000"
