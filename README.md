@@ -12,8 +12,9 @@ Installation
       - Create a .env file in the test-real-smart
         - API_BASE=""   //  "http://localhost:5000"
       - Create a .env file in the server
-        - TOKEN_SEC=""
-        - PORT=""
+        - TOKEN_SEC="" // "secret code"
+        - PORT=""  // 5000
+        - MONGODB_URI="" // mongodb://127.0.0.1:27017/test-real-smart
   - npm run dev or yarn dev
 
 Folder Structure
